@@ -1,10 +1,8 @@
-# nbdev template
+# LNScrape
 
-Use this template to more easily create your [nbdev](https://nbdev.fast.ai/) project.
+A scraper for automating the download process from Lexis-Nexis. This package should only be used for approved academic purposes where local copyright legislation permits. 
 
-_If you are using an older version of this template, and want to upgrade to the theme-based version, see [this helper script](https://gist.github.com/hamelsmu/977e82a23dcd8dcff9058079cb4a8f18) (more explanation of what this means is contained in the link to the script)_.
-
-## Troubleshooting Tips
+<!-- ## Troubleshooting Tips
 
 -  Make sure you are using the latest version of nbdev with `pip install -U nbdev`
 -  If you are using an older version of this template, see the instructions above on how to upgrade your template. 
@@ -17,4 +15,4 @@ _If you are using an older version of this template, and want to upgrade to the 
 
 It is often desirable to preview nbdev generated documentation locally before having it built and rendered by GitHub Pages.  This requires you to run Jekyll locally, which requires installing Ruby and Jekyll. Instructions on how to install Jekyll are provided [on Jekyll's site](https://jekyllrb.com/). You can run the command `make docs_serve` from the root of your repo to serve the documentation locally after calling `nbdev_build_docs` to generate the docs. 
 
-In order to allow you to run Jekyll locally this project contains manifest files, called Gem files, that specify all Ruby dependencies for Jekyll & nbdev. **If you do not plan to preview documentation locally**, you can choose to delete `docs/Gemfile` and `docs/Gemfile.lock` from your nbdev project (for example, after creating a new repo from this template). 
+In order to allow you to run Jekyll locally this project contains manifest files, called Gem files, that specify all Ruby dependencies for Jekyll & nbdev. **If you do not plan to preview documentation locally**, you can choose to delete `docs/Gemfile` and `docs/Gemfile.lock` from your nbdev project (for example, after creating a new repo from this template).  -->
